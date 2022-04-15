@@ -1,16 +1,15 @@
 import React from "react";
 import Navbar2 from "./Navbar2";
 import Img1 from "../img/Group 2.png";
-import { Button } from "react-bootstrap";
-import Data from '../data/data.json'
+import { Button, CloseButton } from "react-bootstrap";
+import Data from '../data/Cultural.json'
 
-function Card() {
+function Cultral() {
   return (
     <>
       <Navbar2 />
       <div  className="flex flex-grow max-w-6xl">
       <div className=" grid grid-cols-6 mx-auto bg-zinc-400">
-        {/* <button className="butt">Technical</button> */}
         <button className="active1">Technical</button>
         <button className="butt">Cultural</button>
         <button className="butt">Debate</button>
@@ -64,4 +63,4 @@ function Card() {
   );
 }
 
-export default Card;
+export default Cultral;

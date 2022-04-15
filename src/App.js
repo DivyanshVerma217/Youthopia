@@ -8,13 +8,18 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import { UserAuthContextProvider } from "./context/UserAuthContext";
 import Navbar from "./components/Navbar";
 import Card from "./components/card";
+import Home1 from "./components/bhavya";
+import Technical from "./components/technical";
 
 
 function App() {
   return (
     <>
     {/* <Navbar/> */}
+    {/* <Technical/> */}
     <Card/>
+    
+    
 
     
     
