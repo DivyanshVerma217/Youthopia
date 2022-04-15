@@ -11,8 +11,8 @@
     "Category": "CULTURAL",
     "eventFeeDIT": "50&100",
     "eventFeeNonDIT": "100&200",
-    "Date": "22-04-22",
-    "Time": "3:00-5:00",
+    "date": "22-04-22",
+    "time": "3:00-5:00",
     "Overall Head": "SIMRAN BANGA & AKKSHAT PANDIT",
     "Coordinator": "SIMRAN BANGA & AKKSHAT PANDIT",
     "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-14-at-5.20.49-PM-150x150.jpeg"
@@ -28,8 +28,8 @@
     "Category": "CULTURAL",
     "eventFeeDIT": "50&150&500",
     "eventFeeNonDIT": "100&300&1000",
-    "Date": "23-04-2022",
-    "Time": "2.00-5.00",
+    "date": "23-04-2022",
+    "time": "2.00-5.00",
     "Overall Head": "JANEET KANSAL",
     "Coordinator": "SHAURYA SETHI, AYUSH SRIVASTAVA",
     "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-14-at-5.20.49-PM-2-150x150.jpeg"
@@ -45,8 +45,8 @@
     "Category": "CULTURAL",
     "eventFeeDIT": "150&300&450",
     "eventFeeNonDIT": "150&300&450",
-    "Date": "23-04-22",
-    "Time": "10.00-12.00",
+    "date": "23-04-22",
+    "time": "10.00-12.00",
     "Overall Head": "PRANAV SidDHANTH",
     "Coordinator": "AVI GUPTA\n",
     "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/Crescendo.png"
