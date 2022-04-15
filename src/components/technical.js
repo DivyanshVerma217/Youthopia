@@ -2,7 +2,7 @@ import React from "react";
 import Navbar2 from "./Navbar2";
 import Img1 from "../img/Group 2.png";
 import { Button } from "react-bootstrap";
-import Data from '../data/Technical.json'
+import Data from '../data/Technical (1).json'
 
 function Technical() {
   return (

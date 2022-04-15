@@ -8,8 +8,11 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import { UserAuthContextProvider } from "./context/UserAuthContext";
 import Navbar from "./components/Navbar";
 import Card from "./components/card";
-import Home1 from "./components/bhavya";
+
 import Technical from "./components/technical";
+import Debate from "./components/debate";
+import Informal from "./components/informal";
+import Cultral from "./components/cultural";
 
 
 function App() {
@@ -17,7 +20,9 @@ function App() {
     <>
     {/* <Navbar/> */}
     {/* <Technical/> */}
-    <Card/>
+    <Cultral/>
+    {/* <Debate/> */}
+    {/* <Informal/> */}
     
     
 

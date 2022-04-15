@@ -2,7 +2,7 @@ import React from "react";
 import Navbar2 from "./Navbar2";
 import Img1 from "../img/Group 2.png";
 import { Button, CloseButton } from "react-bootstrap";
-import Data from '../data/Cultural.json'
+import Data from '../data/Cultural (1).json'
 
 function Cultral() {
   return (

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "Ev_10",
+    "eventname": "MOCK THE PARLIAMENT-(LC)",
+    "about": "A fun parliament session where groups will debate on some entertaining topics.",
+    "venue": "Workshop Seminar Hall",
+    "Min Member": "1",
+    "Max Member": "",
+    "Club": "LC",
+    "Category": "Debate And Declamation",
+    "eventFeeDIT": "30",
+    "eventFeeNonDIT": "60",
+    "date": "23-04-2-2022",
+    "timee": "10:00-12:00",
+    "Overall Head": "BHAVESH SUNEJA, ADITYA SINGH",
+    "Coordinator": "SHASHANK BISHT",
+    "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-43-1-150x150.png"
+  },
+  {
+    "id": "Ev_11",
+    "eventname": "PANEL OF ASPIRANST'S",
+    "about": "The event is a replication of GD Round that is taken in Service Selection Board of Defence Services Recruitments. The panel consists of Senior Army Personnel who will convene the event.The discussion offers positive and negative perspectives on how academic and background diversity affects the students and aspirants and enhances competitiveness, creative approach, and effectiveness in defense recruitment and retention.The event aims to develop communication skills, how to interrupt a speaking member without using his/her first language, and how to speak in front of Rank Officers (Defense  Personnel).Content: Panel will address the topic of the Group Discussion related to Defense Current Affairs and participants must propose and put forward their take in favor or against. The challenge is to convince the Judging panel and the participants of the Group Discussion to put arguments and facts with precision in front of everyone so that at the end of the event all the members come to one arbitrament.",
+    "venue": "VISVESWARYA 101",
+    "Min Member": "3",
+    "Max Member": "5",
+    "Club": "NCC",
+    "Category": "Debate And Declamation",
+    "eventFeeDIT": "100",
+    "eventFeeNonDIT": "100",
+    "date": "22-04-22",
+    "timee": "2:00-5:00",
+    "Overall Head": "U.O Lokesh Rawat, SGT. Ankit Raj Kumawat, Cdt. Devansh Ahi,",
+    "Coordinator": "U.O Lokesh Rawat, SGT. Ankit Raj Kumawat, Cdt. Devansh Ahi",
+    "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-42-150x150.png"  
+    },
+  {
+    "id": "Ev_14",
+    "eventname": "VAAD VIVAD",
+    "about": "Vaad vivad is a debate competition in which the participants discuss a topic from two opposing sides. Those who agree with this statement or idea are on the 'for' side. Those who will not agree with this statement or idea are on the 'against' side.",
+    "venue": "",
+    "Min Member": "1",
+    "Max Member": "1",
+    "Club": "LC",
+    "Category": "Debate And Declamation",
+    "eventFeeDIT": "30",
+    "eventFeeNonDIT": "60",
+    "date": "23-04-2022",
+    "timee": "1:00-3:00",
+    "Overall Head": "BHAVESH SUNEJA\n,\n ADITYA SINGH",
+    "Coordinator": "SHASHANK BISHT",
+    "img":""
+  }
+]
