@@ -5,6 +5,7 @@ import { Button } from "react-bootstrap";
 import Data from '../data/data.json'
 
 function Card() {
+  // console.log(this.props.match.params.id);
   return (
     <>
       <Navbar2 />

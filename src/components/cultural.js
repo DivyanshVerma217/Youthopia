@@ -3,11 +3,12 @@ import Navbar2 from "./Navbar2";
 import Img1 from "../img/Group 2.png";
 import { Button, CloseButton } from "react-bootstrap";
 import Data from '../data/Cultural (1).json'
+import { Link } from "react-router-dom";
 
 function Cultral() {
   return (
     <>
-      <Navbar2 />
+      
       <div  className="flex flex-grow max-w-6xl">
       <div className=" grid grid-cols-6 mx-auto bg-zinc-400">
         <button className="active1">Technical</button>
@@ -19,10 +20,10 @@ function Cultral() {
       {Data.map((items,index)=>{
         return (
           <>
-          <div className="flex flex-row justify-evenly max-w-6xl mx-auto py-8   border-b-2 border-grey ">
+          <div className="flex flex-row justify-evenly  max-w-6xl mx-auto py-8   border-b-2 border-grey ">
         <img className="" src={items.img} alt=" " />
         <div className="flex flex-grow sm:flex-col flex-col justify-evenly">
-          <div className="flex flex-grow sm:flex-col flex-row justify-evenly">
+          <div className="flex flex-grow  sm:flex-col flex-row justify-evenly">
             <h5>{items.eventname}</h5>
             <div>
               <h5>Time</h5>
@@ -44,8 +45,11 @@ function Cultral() {
           </div>
           <div className="flex sm:flex-col mx-14 px-8  sm:w-48 lg:w-96  flex-row justify-between">
             <div>
+            <Link to={'/event/'+items.id}>
             <Button  variant="secondary" className="bg-gray-400 h-auto w-max px-3 py-2 rounded-full">
-              Know  More</Button>
+              Know  More
+            </Button>
+            </Link>
             </div>
             <div className="hidden lg:block">
             <Button variant="secondary" className="bg-gray-400 hidden lg:block h-auto w-auto px-3 py-2 rounded-full">Download the App</Button>

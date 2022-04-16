@@ -69,11 +69,15 @@ body{
 }
 @media screen and (max-width: 415px){
   .active1{
-    width: 78px;
+    width: 88px;
   } 
 }
 
 
 .butt{
   margin-left: 20px;
+}
+
+.matr{
+  margin-top: 30px;
 }

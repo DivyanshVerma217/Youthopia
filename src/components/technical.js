@@ -7,9 +7,9 @@ import Data from '../data/Technical (1).json'
 function Technical() {
   return (
     <>
-      <Navbar2 />
+      {/* <Navbar2 /> */}
       <div  className="flex flex-grow max-w-6xl">
-      <div className=" grid grid-cols-6 gap-7 mx-auto bg-zinc-400">
+      <div className=" grid  grid-cols-4 gap-3 mx-auto bg-zinc-400">
         {/* <button className="butt">Technical</button> */}
         <button className="active1">Technical</button>
         <button className="butt">Cultural</button>
@@ -20,10 +20,10 @@ function Technical() {
       {Data.map((items,index)=>{
         return (
           <>
-          <div className="flex flex-row justify-evenly max-w-6xl mx-auto py-8   border-b-2 border-grey ">
+          <div className="flex flex-row flex-wrap justify-evenly max-w-6xl mx-auto py-8   border-b-2 border-grey ">
         <img className="" src={items.img} alt=" " />
-        <div className="flex flex-grow sm:flex-col flex-col justify-evenly">
-          <div className="flex flex-grow sm:flex-col flex-row justify-evenly">
+        <div className="flex flex-grow sm:flex-wrap flex-col justify-evenly">
+          <div className="flex flex-grow sm:flex-col matr flex-row justify-evenly">
             <h5>{items.eventname}</h5>
             <div>
               <h5>Time</h5>

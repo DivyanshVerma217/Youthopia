@@ -13,16 +13,32 @@ import Technical from "./components/technical";
 import Debate from "./components/debate";
 import Informal from "./components/informal";
 import Cultral from "./components/cultural";
+import Desc from "./components/desc";
+import Navbar2 from "./components/Navbar2";
+import Footer from "./components/footer";
 
 
 function App() {
+
+
+
+
+
   return (
     <>
     {/* <Navbar/> */}
     {/* <Technical/> */}
-    <Cultral/>
+    <Navbar2 />
+    <Routes>
+      {/* <Route path ="/" element ={<Home/>}/> */}
+      <Route path="/debate" element={<Debate />} />
+      <Route path="/technical" element={<Technical/>} />
+      <Route path="/event/:eventname" element={<Desc/>} />
+    </Routes>
+    {/* <Cultral/> */}
     {/* <Debate/> */}
     {/* <Informal/> */}
+    <Footer/>
     
     
 
