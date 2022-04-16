@@ -3,11 +3,12 @@ import Navbar2 from "./Navbar2";
 import Img1 from "../img/Group 2.png";
 import { Button } from "react-bootstrap";
 import Data from '../data/Informal (1).json'
+import { Link } from "react-router-dom";
 
 function Informal() {
   return (
     <>
-      <Navbar2 />
+   
       <div  className="flex flex-grow max-w-6xl">
       <div className=" grid grid-cols-6 gap-7 mx-auto bg-zinc-400">
         
@@ -45,8 +46,15 @@ function Informal() {
           </div>
           <div className="flex sm:flex-col mx-14 px-8  sm:w-48 lg:w-96  flex-row justify-between">
             <div>
-            <Button  variant="secondary" className="bg-gray-400 h-auto w-max px-3 py-2 rounded-full">
-              Know  More</Button>
+            <Link to={`/informal/${items.eventname}`}>
+                      <Button
+                        
+                        variant="secondary"
+                        className="bg-gray-400 h-auto w-max px-3 py-2 rounded-full"
+                      >
+                        Know More
+                      </Button>
+                    </Link>
             </div>
             <div className="hidden lg:block">
             <Button variant="secondary" className="bg-gray-400 hidden lg:block h-auto w-auto px-3 py-2 rounded-full">Download the App</Button>

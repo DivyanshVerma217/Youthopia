@@ -16,6 +16,9 @@ import Cultral from "./components/cultural";
 import Desc from "./components/desc";
 import Navbar2 from "./components/Navbar2";
 import Footer from "./components/footer";
+import Desc2 from "./components/desc2";
+import Desc3 from "./components/desc3";
+import Desc4 from "./components/desc4";
 
 
 function App() {
@@ -33,12 +36,18 @@ function App() {
       {/* <Route path ="/" element ={<Home/>}/> */}
       <Route path="/debate" element={<Debate />} />
       <Route path="/technical" element={<Technical/>} />
-      <Route path="/event/:eventname" element={<Desc/>} />
+      <Route path="/cultural" element={<Cultral/>} />
+      <Route path="/informal" element={<Informal/>} />
+      
+      <Route path="/debate/:eventname" element={<Desc/>} />
+      <Route path="/technical/:eventname" element={<Desc2/>} />
+      <Route path="/cultural/:eventname" element={<Desc3/>} />
+      <Route path="/informal/:eventname" element={<Desc4/>} />
     </Routes>
     {/* <Cultral/> */}
     {/* <Debate/> */}
     {/* <Informal/> */}
-    <Footer/>
+    
     
     
 

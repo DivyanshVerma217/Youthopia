@@ -10,10 +10,10 @@
     "Category": "Debate And Declamation",
     "eventFeeDIT": "30",
     "eventFeeNonDIT": "60",
-    "date": "23-04-2-2022",
-    "timee": "10:00-12:00",
-    "Overall Head": "BHAVESH SUNEJA, ADITYA SINGH",
-    "Coordinator": "SHASHANK BISHT",
+    "date": "23-04-2022",
+    "time": "10:00-12:00",
+    "head": "BHAVESH SUNEJA, ADITYA SINGH",
+    "coordinator": "SHASHANK BISHT",
     "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-43-1-150x150.png"
   },
   {
@@ -28,9 +28,9 @@
     "eventFeeDIT": "100",
     "eventFeeNonDIT": "100",
     "date": "22-04-22",
-    "timee": "2:00-5:00",
-    "Overall Head": "U.O Lokesh Rawat, SGT. Ankit Raj Kumawat, Cdt. Devansh Ahi,",
-    "Coordinator": "U.O Lokesh Rawat, SGT. Ankit Raj Kumawat, Cdt. Devansh Ahi",
+    "time": "2:00-5:00",
+    "head": "U.O Lokesh Rawat, SGT. Ankit Raj Kumawat, Cdt. Devansh Ahi,",
+    "coordinator": "U.O Lokesh Rawat, SGT. Ankit Raj Kumawat, Cdt. Devansh Ahi",
     "img":"https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-42-150x150.png"  
     },
   {
@@ -45,9 +45,9 @@
     "eventFeeDIT": "30",
     "eventFeeNonDIT": "60",
     "date": "23-04-2022",
-    "timee": "1:00-3:00",
-    "Overall Head": "BHAVESH SUNEJA\n,\n ADITYA SINGH",
-    "Coordinator": "SHASHANK BISHT",
+    "time": "1:00-3:00",
+    "head": "BHAVESH SUNEJA\n,\n ADITYA SINGH",
+    "coordinator": "SHASHANK BISHT",
     "img":""
   }
 ]

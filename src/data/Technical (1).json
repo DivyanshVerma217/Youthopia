@@ -12,8 +12,8 @@
     "eventFeeNonDIT": "60",
     "date": "23-04-2022",
     "time": "3:00-5:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-39-150x150.png"
   },
   {
@@ -30,7 +30,7 @@
     "date": "23-04-2022",
     "time": "3:00-5:00",
     "Overall Head": "Aamna Alam",
-    "Coordinator": "Shubhi Agrawal-",
+    "coordinator": "Shubhi Agrawal-",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-32-150x150.png"
   },
   {
@@ -47,7 +47,7 @@
     "date": "23-04-2022",
     "time": "",
     "Overall Head": "",
-    "Coordinator": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-41-150x150.png"
   },
   {
@@ -64,7 +64,7 @@
     "date": "23-04-2022",
     "time": "3:00-5:00",
     "Overall Head": "Rameshwar Singh, Vasundhra Bhatia",
-    "Coordinator": "Vinay Chandola, Shashank Rawat",
+    "coordinator": "Vinay Chandola, Shashank Rawat",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-14-150x150.png"
   },
   {
@@ -81,7 +81,7 @@
     "date": "23-04-2022",
     "time": "3:00-5:00",
     "Overall Head": "",
-    "Coordinator": "Saurabh-",
+    "coordinator": "Saurabh-",
     "img": ""
   },
   {
@@ -98,13 +98,13 @@
     "date": "23-04-2022",
     "time": "12:00-2:00",
     "Overall Head": "Saurabh-",
-    "Coordinator": "",
+    "coordinator": "",
     "img": ""
   },
   {
     "id": "Ev_28",
     "eventname": "Code-2-Win",
-    "about": "It will be an exciting event as the name suggests CODE2WIN to challenge the technical skills within a particular given time. Participants will have the option of choosing either of the three difficulty levels (Easy, Medium, Hard) and within a specific time frame they have to solve either one question for winning a single prize or solve 2 Questions for winning double prizes.Questions will test the coding ability of participants at various difficulty levels. There will be exciting rewards such as amazon vouchers, goodies etc.",
+    "about": "It will be an exciting eventname as the name suggests CODE2WIN to challenge the technical skills within a particular given time. Participants will have the option of choosing either of the three difficulty levels (Easy, Medium, Hard) and within a specific time frame they have to solve either one question for winning a single prize or solve 2 Questions for winning double prizes.Questions will test the coding ability of participants at various difficulty levels. There will be exciting rewards such as amazon vouchers, goodies etc.",
     "venue": "VEDANTA-VAASTU GAP",
     "Min Member": "",
     "Max Member": "",
@@ -115,7 +115,7 @@
     "date": "23-04-2022",
     "time": "2:00-5:00",
     "Overall Head": "Tandon-",
-    "Coordinator": "Abhishek Kumar-",
+    "coordinator": "Abhishek Kumar-",
     "img": ""
   }
 ]

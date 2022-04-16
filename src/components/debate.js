@@ -49,7 +49,7 @@ function Debate() {
                   <div>
                     <Link to={`/event/${items.eventname}`}>
                       <Button
-                        onClick={() => naviagte(`/event/${items.id}`)}
+                       
                         variant="secondary"
                         className="bg-gray-400 h-auto w-max px-3 py-2 rounded-full"
                       >

@@ -12,8 +12,8 @@
     "eventFeeNonDIT": "40",
     "date": "22/04/2022",
     "time": "2:00-3:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-5-150x150.png"
   },
   {
@@ -29,8 +29,8 @@
     "eventFeeNonDIT": "100",
     "date": "23/04/2022",
     "time": "10:00-12:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-57-150x150.png"
   },
   {
@@ -46,8 +46,8 @@
     "eventFeeNonDIT": "100",
     "date": "22/04/2022",
     "time": "3:00-4:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/WhatsApp-Image-2022-04-14-at-5.20.49-PM-3-150x150.jpeg"
   },
   {
@@ -63,8 +63,8 @@
     "eventFeeNonDIT": "100",
     "date": "23/04/2022",
     "time": "11:00-01:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-8-150x150.png"
   },
   {
@@ -80,8 +80,8 @@
     "eventFeeNonDIT": "30",
     "date": "22/04/2022",
     "time": "10:00-12:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-11-150x150.png"
   },
   {
@@ -97,8 +97,8 @@
     "eventFeeNonDIT": "60",
     "date": "22-04-22",
     "time": "10:00-12:00",
-    "Overall Head": "SANSKAR SAXENA, MUSTAFA AMAAN",
-    "Coordinator": "ARJUN PAYAL, ARNAV KUKRETI",
+    "head": "SANSKAR SAXENA, MUSTAFA AMAAN",
+    "coordinator": "ARJUN PAYAL, ARNAV KUKRETI",
     "img": ""
   },
   {
@@ -114,8 +114,8 @@
     "eventFeeNonDIT": "100",
     "date": "22-04-22",
     "time": "2:00-5:00",
-    "Overall Head": "ADITYA SINGH, BHAVESH SUNEJA",
-    "Coordinator": "SHASHANK BISHT",
+    "head": "ADITYA SINGH, BHAVESH SUNEJA",
+    "coordinator": "SHASHANK BISHT",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-7-150x150.png"
   },
   {
@@ -130,9 +130,9 @@
     "eventFeeDIT": "40",
     "eventFeeNonDIT": "40",
     "date": "22/04/2022 & 23/04/2022",
-    "time": "10:00 � 4:00",
-    "Overall Head": "SURABHI DAHAL, TANANJAY SRIVAS",
-    "Coordinator": "SOM KARTIKEY,TUSHAR GAHTORI",
+    "time": "10:00 - 4:00",
+    "head": "SURABHI DAHAL, TANANJAY SRIVAS",
+    "coordinator": "SOM KARTIKEY,TUSHAR GAHTORI",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-9-150x150.png"
   },
   {
@@ -148,8 +148,8 @@
     "eventFeeNonDIT": "",
     "date": "22-04-22",
     "time": "10:00-11:00",
-    "Overall Head": "MANAN NAGPAL",
-    "Coordinator": "SANCHIT WADHWAN",
+    "head": "MANAN NAGPAL",
+    "coordinator": "SANCHIT WADHWAN",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-10-150x150.png"
   },
   {
@@ -165,8 +165,8 @@
     "eventFeeNonDIT": "30",
     "date": "22-04-22",
     "time": "11:00-12:00",
-    "Overall Head": "AMAN KUMAR",
-    "Coordinator": "ANURAJ, AYUSH KUMAR TIWARI",
+    "head": "AMAN KUMAR",
+    "coordinator": "ANURAJ, AYUSH KUMAR TIWARI",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-11-150x150.png"
   },
   {
@@ -182,8 +182,8 @@
     "eventFeeNonDIT": "70",
     "date": "22-04-22",
     "time": "12:00-2:00",
-    "Overall Head": "SHRUTI BHARADWAJ",
-    "Coordinator": "SANCHIT WADHWAN",
+    "head": "SHRUTI BHARADWAJ",
+    "coordinator": "SANCHIT WADHWAN",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-12-150x150.png"
   },
   {
@@ -199,8 +199,8 @@
     "eventFeeNonDIT": "40",
     "date": "22-04-22",
     "time": "2:00-3:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-13-150x150.png"
   },
   {
@@ -216,8 +216,8 @@
     "eventFeeNonDIT": "30",
     "date": "22-04-22",
     "time": "3:00-4:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-15-150x150.png"
   },
   {
@@ -233,8 +233,8 @@
     "eventFeeNonDIT": "40",
     "date": "22-04-22",
     "time": "4:00-5:00",
-    "Overall Head": "",
-    "Coordinator": "",
+    "head": "",
+    "coordinator": "",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-16-150x150.png"
   },
   {
@@ -250,8 +250,8 @@
     "eventFeeNonDIT": "30,40",
     "date": "22-04-22",
     "time": "10:00-11:00",
-    "Overall Head": "MEGHA RAWAT, AKSAJ SHARMA",
-    "Coordinator": "SHREYANSH, SEJAL",
+    "head": "MEGHA RAWAT, AKSAJ SHARMA",
+    "coordinator": "SHREYANSH, SEJAL",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-17-150x150.png"
   },
   {
@@ -267,8 +267,8 @@
     "eventFeeNonDIT": "40",
     "date": "22-04-22",
     "time": "12:00-1:00",
-    "Overall Head": "MEGHA RAWAT, AKSAJ SHARMA",
-    "Coordinator": "PRIYANSHI \n 8923771779,",
+    "head": "MEGHA RAWAT, AKSAJ SHARMA",
+    "coordinator": "PRIYANSHI \n 8923771779,",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-19-150x150.png"
   },
   {
@@ -284,8 +284,8 @@
     "eventFeeNonDIT": "70",
     "date": "22-04-22",
     "time": "2:00-3:00",
-    "Overall Head": "MANAN NAGPAL",
-    "Coordinator": "HARSH CHAWLA\n",
+    "head": "MANAN NAGPAL",
+    "coordinator": "HARSH CHAWLA\n",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-18-150x150.png"
   },
   {
@@ -301,8 +301,8 @@
     "eventFeeNonDIT": "30",
     "date": "22-04-22",
     "time": "2:00-3:00",
-    "Overall Head": "SURABHI DAHAL, TANANJAY SRIVAS",
-    "Coordinator": "PRASHANT BIST, CHETNA PUNDIR",
+    "head": "SURABHI DAHAL, TANANJAY SRIVAS",
+    "coordinator": "PRASHANT BIST, CHETNA PUNDIR",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-20-150x150.png"
   },
   {
@@ -318,8 +318,8 @@
     "eventFeeNonDIT": "30",
     "date": "22-04-22",
     "time": "11:00-1:00",
-    "Overall Head": "SURABHI DAHAL, TANANJAY SRIVAS",
-    "Coordinator": "SPARSH RAWAT, VANSHIKA DARGAN",
+    "head": "SURABHI DAHAL, TANANJAY SRIVAS",
+    "coordinator": "SPARSH RAWAT, VANSHIKA DARGAN",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-21-150x150.png"
   },
   {
@@ -335,8 +335,8 @@
     "eventFeeNonDIT": "30",
     "date": "22-04-22",
     "time": "2:00-3:00",
-    "Overall Head": "SPARSH BALUJA",
-    "Coordinator": "AVNEET",
+    "head": "SPARSH BALUJA",
+    "coordinator": "AVNEET",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-22-150x150.png"
   },
   {
@@ -352,8 +352,8 @@
     "eventFeeNonDIT": "120/team",
     "date": "22-04-22",
     "time": "12:00-1:00",
-    "Overall Head": "SPARSH BALUJA",
-    "Coordinator": "AVNEET",
+    "head": "SPARSH BALUJA",
+    "coordinator": "AVNEET",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-23-150x150.png"
   },
   {
@@ -369,8 +369,8 @@
     "eventFeeNonDIT": "150",
     "date": "22-04-22",
     "time": "3:00-5:00",
-    "Overall Head": "ADITYA SINGH, BHAVESH SUNEJA",
-    "Coordinator": "SHASHANK\n BISHT",
+    "head": "ADITYA SINGH, BHAVESH SUNEJA",
+    "coordinator": "SHASHANK\n BISHT",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-24-150x150.png"
   },
   {
@@ -386,8 +386,8 @@
     "eventFeeNonDIT": "",
     "date": "22-04-22",
     "time": "3:00-5:00",
-    "Overall Head": "SHREYA VERMA",
-    "Coordinator": "MALIKA",
+    "head": "SHREYA VERMA",
+    "coordinator": "MALIKA",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-25-150x150.png"
   },
   {
@@ -403,8 +403,8 @@
     "eventFeeNonDIT": "10",
     "date": "22-04-22",
     "time": "10:00-5:00",
-    "Overall Head": "SHREYA VERMA",
-    "Coordinator": "YALIK SINGAL",
+    "head": "SHREYA VERMA",
+    "coordinator": "YALIK SINGAL",
     "img": "https://ieeeditu.org.in/wp-content/uploads/2022/04/Frame-26-150x150.png"
   }
 ]

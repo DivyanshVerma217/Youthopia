@@ -2,23 +2,23 @@ import React from "react";
 // import Nabvar from './Nabvar';
 // import Data from './data.json'
 // import Helmet from 'react-helmet';
-import Navbar2 from "./Navbar2";
-import Data from "../data/Debate (1).json";
+// import Navbar2 from "./Navbar2";
+import Data from "../data/Technical (1).json";
 import { useParams } from "react-router-dom";
 
-function Desc() {
+function Desc2() {
   const { eventname } = useParams();
 
   return (
     <>
       {/* <Navbar2 /> */}
-        <div className="description">
-          {Data.filter((items) => items.eventname === eventname).map(
-            (items, index) => (
-      <div className="containerr-event">
-        <div className="poster">
-          <img src={items.img} alt="" />
-        </div>
+      <div className="description">
+        {Data.filter((items) => items.eventname === eventname).map(
+          (items, index) => (
+            <div className="containerr-event">
+              <div className="poster">
+                <img src={items.img} alt="" />
+              </div>
               <div>
                 <div className="heading">
                   <h2>{items.eventname}</h2>
@@ -51,34 +51,32 @@ function Desc() {
                   <div className="value">{items.coordinator}</div>
                 </div>
                 <div className="details m-t">
-            <div className="key">Over All Head:</div>
-            <div className="value">{items.head}</div>
-          </div>
+                  <div className="key">Over All Head:</div>
+                  <div className="value">{items.head}</div>
+                </div>
                 <div className="details m-t">
-            <div className="key">Fees:</div>
-            <div className="value">{items.eventFeeDIT}(DIT)</div>
-            <div className="value">{items.eventFeeNonDIT}(NON-DIT)</div>
-          </div>
+                  <div className="key">Fees:</div>
+                  <div className="value">{items.eventFeeDIT}(DIT)</div>
+                  <div className="value">{items.eventFeeNonDIT}(NON-DIT)</div>
+                </div>
               </div>
-              </div>
-            )
-          )}
+            </div>
+          )
+        )}
 
-          {/* </div> */}
+        {/* </div> */}
 
-          <div className="button-button">
-            REGISTRATION STARTS SOON &nbsp;{" "}
-            <img src="./images/arrow-down.svg" alt="" />
-          </div>
-
-
+        <div className="button-button">
+          REGISTRATION STARTS SOON &nbsp;{" "}
+          <img src="./images/arrow-down.svg" alt="" />
         </div>
+      </div>
       {/* </div> */}
     </>
   );
 }
 
-export default Desc;
+export default Desc2;
 
 // import React, { useState, useEffect } from "react";
 // import { useParams } from "react-router-dom";
@@ -86,14 +84,14 @@ export default Desc;
 
 // function Desc() {
 
-//   const {eventname} = useParams();
+//   const {id} = useParams();
 
 //   return (
 
 //     <>
 //     <div>
-//       {Data.filter((items)=> items.eventname === eventname).map((items,index)=>(<div>
-//         <h1>{items.eventname}</h1>
+//       {Data.filter((items)=> items.id === id).map((items,index)=>(<div>
+//         <h1>{items.id}</h1>
 //       </div>))}
 //     </div>
 //     </>
