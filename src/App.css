@@ -366,3 +366,7 @@ font-size: 17.288px;
     margin-left: 42px;
   }
 }
+
+.fixed{
+  position: fixed;
+}

@@ -9,7 +9,7 @@ function Technical() {
   return (
     <>
       {/* <Navbar2 /> */}
-      <div className="flex flex-grow max-w-6xl">
+      <div className=" flex flex-grow max-w-6xl">
         <div className=" grid  grid-cols-4 gap-3 mx-auto bg-zinc-400">
           {/* <button className="butt">Technical</button> */}
           <button className="active1">Technical</button>

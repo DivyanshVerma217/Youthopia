@@ -19,6 +19,7 @@ import Footer from "./components/footer";
 import Desc2 from "./components/desc2";
 import Desc3 from "./components/desc3";
 import Desc4 from "./components/desc4";
+import Gallery1 from "./components/Gallery";
 
 
 function App() {
@@ -31,13 +32,14 @@ function App() {
     <>
     {/* <Navbar/> */}
     {/* <Technical/> */}
-    <Navbar2 />
+    <Navbar2 className="fixed" />
     <Routes>
       {/* <Route path ="/" element ={<Home/>}/> */}
       <Route path="/debate" element={<Debate />} />
       <Route path="/technical" element={<Technical/>} />
       <Route path="/cultural" element={<Cultral/>} />
       <Route path="/informal" element={<Informal/>} />
+      <Route path="/gallery" element={<Gallery1/>} />
       
       <Route path="/debate/:eventname" element={<Desc/>} />
       <Route path="/technical/:eventname" element={<Desc2/>} />

@@ -9,8 +9,9 @@ import Img from "../img/01.png";
 
 function Navbar2() {
   return (
-    <div>
-      <Navbar expand="lg">
+    <div className="">
+      <div className="" >
+      <Navbar  expand="lg">
         <Container>
           <Navbar.Brand href="#home">
             <img src={Img1} alt="" />
@@ -30,6 +31,7 @@ function Navbar2() {
               <img src={Img} alt="" />
             </Nav></div>
       </Navbar>
+    </div>
     </div>
   );
 }
