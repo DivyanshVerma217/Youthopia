@@ -370,3 +370,6 @@ font-size: 17.288px;
 .fixed{
   position: fixed;
 }
+.fullvw{
+  width: 50vw;
+}

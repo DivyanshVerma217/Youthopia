@@ -1,8 +1,5 @@
-import React from "react";
-import Gallery from "react-photo-gallery";
-
-function Gallery1() {
-  const photos = [
+const photos = {
+  images: [
     {
       src: "https://drive.google.com/uc?export=view&id=1117ZYK7DTurCIqOE-EM9zQhMdNZKYGwR",
       width: 4,
@@ -20,78 +17,29 @@ function Gallery1() {
     },
     {
       src: "https://drive.google.com/uc?export=view&id=11kjl8NRzgULG2xFgrMxVytqaotF8PZHf",
-      width: 6,
-      height: 4,
-    },
-
-    {
-      src: "https://drive.google.com/uc?export=view&id=18G5gNc0BtTuzorg3Fv2k-5w_7BCS1S1F",
-      width: 4,
-      height: 3,
     },
     {
       src: "https://drive.google.com/uc?export=view&id=13x8upONzAc8MZ-ewxZcUv9QxyW-h2vDr",
-      width: 4,
-      height: 3,
     },
-
+    {
+      src: "https://drive.google.com/uc?export=view&id=18G5gNc0BtTuzorg3Fv2k-5w_7BCS1S1F",
+    },
+    {
+      src: "https://drive.google.com/uc?export=view&id=13x8upONzAc8MZ-ewxZcUv9QxyW-h2vDr",
+    },
     {
       src: "https://drive.google.com/uc?export=view&id=1w55gQEyeCmb_KxeKQmWbuHmLG1BLAZQN",
-      width: 4,
-      height: 3,
     },
     {
       src: "https://drive.google.com/uc?export=view&id=1VKrvSa9ERmCN9CU-Jw4xZ1jMopSQATbQ",
-
-      width: 4,
-      height: 3,
     },
     {
       src: "https://drive.google.com/uc?export=view&id=1mN0GLVfV5wgdgumL26fqGe6g8_X0hMMH",
-      width: 4,
-      height: 4,
     },
     {
       src: "https://drive.google.com/uc?export=view&id=1_9zVxzwKagZL-0uFUSb5VLdEJuulO5gH",
-
-      width: 4,
-      height: 3,
     },
-  ];
+  ],
+};
 
-  return (
-    <>
-      <h1 className="max-w-6xl mx-auto mb-8 px-4 py-4 font-extrabold">
-        GALLERY
-      </h1>
-      <div className="max-w-7xl mx-auto">
-        <Gallery photos={photos} />;
-      </div>
-    </>
-  );
-}
-
-export default Gallery1;
-//   const photos = [
-//     {
-//       src: "../gallery/01.png",
-//     },
-//     {
-//       src: "../gallery/01.png",
-//     },
-//     {
-//       src: "../gallery/01.png",
-//     },
-//     {
-//       src: "../gallery/01.png",
-//     },
-//     {
-//       src: "../gallery/01.png",
-//     },
-//   ];
-
-//   return (
-//     <div>
-//       <PhotoAlbum layout="columns" photos={photos} />
-//     </div>
-//   );
+export default photos;

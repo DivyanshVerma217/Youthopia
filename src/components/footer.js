@@ -1,32 +1,74 @@
-import React from 'react'
+import React from "react";
+import {
+  FooterContainer,
+  FooterWrap,
+  FooterLinkWrapper,
+  FooterLinkItems,
+  FooterLinkContainer,
+  FooterLinkTitle,
+  FooterLink,
+  SocialLogo,
+  SocialMedia,
+  SocialMediaWrap,
+  WebsiteRights,
+} from "./footerele.js";
+// import { animateScroll as scroll } from "react-scroll";
 
-function Footer() {
+const Footer = () => {
+
   return (
-    <div> <footer className="grid w-full divide-y-[1px]
-    divide-gray-300 bg-gray-100  text-sm text-gray-500">
-     <div className="px-8 py-3">
-       <p>India</p>
-     </div>
-     <div className="grid grid-cols-1 md:grid-cols-2 
-     lg:grid-cols-3 gap-y-4 px-8 py-3 grid-flow-row-dense">
-       <div className="flex justify-center items-center
-       md:col-span-2 lg:col-span-1 lg:col-start-2">
-         Carbon neutral since 2007
-       </div>
-       <div className="flex justify-center space-x-8
-        whitespace-nowrap md:justify-self-start">
-           <p>Advertising</p>
-           <p>Buisness</p>
-           <p>How Searach works</p>
-       </div>
-       <div className="flex justify-center space-x-8 md:ml-auto">
-           <p>Privacy</p>
-           <p>Terms</p>
-           <p>Settings</p>
-       </div>
-     </div>
-   </footer></div>
-  )
-}
+    <FooterContainer className="">
+      <FooterWrap>
+        <FooterLinkContainer className="">
+          <FooterLinkWrapper className="fullvw">
+            <FooterLinkItems className="">
+              {/* <FooterLinkTitle>About us</FooterLinkTitle> */}
+              <FooterLink to="/" className="black bg-green">
+                Mussoorie - Diversion Road, Village Makkawala, Dehradun,
+                Uttarakhand -248009,India
+              </FooterLink>
+              <FooterLink to="/">1800121041000</FooterLink>
+              <FooterLink to="/" className="white mr-8">
+                admissions@dituniversity.edu.in
+              </FooterLink>
+              <FooterLink to="/">Open In Google Maps</FooterLink>
+            </FooterLinkItems>
+            </FooterLinkWrapper>
+            <FooterLinkWrapper>
+            <FooterLinkItems>
+              <FooterLinkTitle>About</FooterLinkTitle>
+              <FooterLink to="/">About Us</FooterLink>
+              <FooterLink to="/">Gallery</FooterLink>
+            </FooterLinkItems>
+          </FooterLinkWrapper>
 
-export default Footer
+          <FooterLinkWrapper>
+            <FooterLinkItems>
+              <FooterLinkTitle>Others</FooterLinkTitle>
+              <FooterLink to="/">Contact Us</FooterLink>
+            </FooterLinkItems>
+          </FooterLinkWrapper>
+        </FooterLinkContainer>
+        <SocialMedia>
+          <SocialMediaWrap>
+            <SocialLogo to="/" onClick={{}}>
+              DIT University
+            </SocialLogo>
+            <WebsiteRights>
+              DIT University © {new Date().getFullYear()} All rights reserved.
+            </WebsiteRights>
+          </SocialMediaWrap>
+          <hr className="text-white "/>
+          <WebsiteRights className=" flex justify-center ">
+              Website designed by: Divyansh Verma, Himanshu Rawat, Harsh Kumar, Shashank Bist
+            </WebsiteRights>
+        </SocialMedia>
+        <div>
+          
+        </div>
+      </FooterWrap>
+    </FooterContainer>
+  );
+};
+
+export default Footer;

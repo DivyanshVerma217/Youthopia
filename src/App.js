@@ -43,9 +43,10 @@ function App() {
       
       <Route path="/debate/:eventname" element={<Desc/>} />
       <Route path="/technical/:eventname" element={<Desc2/>} />
-      <Route path="/cultural/:eventname" element={<Desc3/>} />
+      <Route exact path="/cultural/:eventname" element={<Desc3/>} />
       <Route path="/informal/:eventname" element={<Desc4/>} />
     </Routes>
+    <Footer/>
     {/* <Cultral/> */}
     {/* <Debate/> */}
     {/* <Informal/> */}
